@@ -1,0 +1,9 @@
+{
+  "name": "deris",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "solc": "^0.6.0"
+  }
+}

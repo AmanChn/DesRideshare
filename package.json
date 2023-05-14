@@ -1,0 +1,14 @@
+{
+  "name": "deris",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "ethers": "^4.0.47",
+    "express": "^4.16.4",
+    "http-error": "0.0.6",
+    "http-errors": "~1.6.3",
+    "ipfs-api": "^26.1.2",
+    "solc": "^0.8.20"
+  }
+}
